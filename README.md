@@ -61,7 +61,7 @@ Git, GitHub, Postman, VS Code, IntelliJ Idea, Docker
 <!-- ===== ENGLISH VERSION ===== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thetaf313/thetaf313/main/assets/banner.png" alt="bannière développeur" />
+  <img src="https://raw.githubusercontent.com/thetaf313/thetaf313/main/assets/banner.jpeg" alt="bannière développeur" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Moustapha Sayande (Twist Price)</h1>

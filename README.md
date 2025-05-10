@@ -1,7 +1,13 @@
 <!-- ===== VERSION FRANÇAISE ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thetaf313/thetaf313/main/assets/banner.png" alt="bannière développeur" />
+  <img 
+    src="https://raw.githubusercontent.com/thetaf313/thetaf313/main/assets/banner.jpeg" 
+    alt="bannière développeur"
+    height="400"
+    style="border-radius: 12px; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" 
+  />
 </p>
+
 
 
 <h1 align="center">👋 Bonjour, je suis Moustapha Sayande</h1>
@@ -61,7 +67,12 @@ Git, GitHub, Postman, VS Code, IntelliJ Idea, Docker
 <!-- ===== ENGLISH VERSION ===== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thetaf313/thetaf313/main/assets/banner.jpeg" alt="bannière développeur" />
+  <img 
+    src="https://raw.githubusercontent.com/thetaf313/thetaf313/main/assets/banner.jpeg" 
+    alt="bannière développeur"
+    height="400"
+    style="border-radius: 12px; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" 
+  />
 </p>
 
 <h1 align="center">👋 Hi, I'm Moustapha Sayande (Twist Price)</h1>
